@@ -1,0 +1,12 @@
+gamelist = [["X,X,X"],
+           ["X,O,X"],
+		   ["O,O,X"],
+		   ["O,O,X"],]
+		   
+gamelist
+		   
+for count, row in enumerate(gamelist):
+    print(count, row)
+	
+if row in gamelist !=0:
+    print("You're not a winner. Please refresh page to play again!!")

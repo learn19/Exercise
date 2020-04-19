@@ -1,0 +1,12 @@
+1.) The script would run in the implementation phase of the SDLC.
+2.) They would be valuable when you have to run the test multiple times, they can be reused.
+3.) They would hook into CID in CI/CD using step definitions.
+4.) I would use Jenkins for CI/CD.
+5.) They would be effective in dev in environment
+6.) You can run all tests in dev enviroment that not ready to deployed to stage ready for production enviroment
+7.) I would use Jenkins and the frequency of build is configurable.
+8.) Any IDE should work here example pycham, cucumber
+9.) I would use loadrunner, Jmeter for performance testing and cucumber for regression tests.
+
+
+
